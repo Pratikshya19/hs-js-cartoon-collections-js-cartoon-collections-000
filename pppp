@@ -1,0 +1,3 @@
+function dwarfRollCall(names) //function dwarfRollCall accept an array of dwarfnames//
+{ //start of function body//
+for (var i = 1; 
